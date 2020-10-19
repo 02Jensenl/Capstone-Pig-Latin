@@ -1,0 +1,13 @@
+C:\Users\Lauren\source\repos\CapstonePigLatin2\bin\Debug\netcoreapp3.1\CapstonePigLatin2.exe
+C:\Users\Lauren\source\repos\CapstonePigLatin2\bin\Debug\netcoreapp3.1\CapstonePigLatin2.deps.json
+C:\Users\Lauren\source\repos\CapstonePigLatin2\bin\Debug\netcoreapp3.1\CapstonePigLatin2.runtimeconfig.json
+C:\Users\Lauren\source\repos\CapstonePigLatin2\bin\Debug\netcoreapp3.1\CapstonePigLatin2.runtimeconfig.dev.json
+C:\Users\Lauren\source\repos\CapstonePigLatin2\bin\Debug\netcoreapp3.1\CapstonePigLatin2.dll
+C:\Users\Lauren\source\repos\CapstonePigLatin2\bin\Debug\netcoreapp3.1\CapstonePigLatin2.pdb
+C:\Users\Lauren\source\repos\CapstonePigLatin2\obj\Debug\netcoreapp3.1\CapstonePigLatin2.csprojAssemblyReference.cache
+C:\Users\Lauren\source\repos\CapstonePigLatin2\obj\Debug\netcoreapp3.1\CapstonePigLatin2.AssemblyInfoInputs.cache
+C:\Users\Lauren\source\repos\CapstonePigLatin2\obj\Debug\netcoreapp3.1\CapstonePigLatin2.AssemblyInfo.cs
+C:\Users\Lauren\source\repos\CapstonePigLatin2\obj\Debug\netcoreapp3.1\CapstonePigLatin2.csproj.CoreCompileInputs.cache
+C:\Users\Lauren\source\repos\CapstonePigLatin2\obj\Debug\netcoreapp3.1\CapstonePigLatin2.dll
+C:\Users\Lauren\source\repos\CapstonePigLatin2\obj\Debug\netcoreapp3.1\CapstonePigLatin2.pdb
+C:\Users\Lauren\source\repos\CapstonePigLatin2\obj\Debug\netcoreapp3.1\CapstonePigLatin2.genruntimeconfig.cache
